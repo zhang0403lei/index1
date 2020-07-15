@@ -1,1 +1,2 @@
 function master () {}
+function hahaha () {}
